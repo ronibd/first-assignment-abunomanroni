@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 200px;
+}
+.name-color{
+    color: orangered;
+}
+p{
+    color: dimgray;
+}
+a{
+    text-decoration: none;
+}
+.half-width{
+    text-align: left;
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+}
+.half-width img{
+    width: 60%;
+    padding-left: 35%;
+}
+#button-align{
+text-align: right;
+}
+.top-banner{
+    background-image: url(images/back.jpg);
+}
+section{
+    height: 500px;
+}
+p{
+    color: whitesmoke;
+}
