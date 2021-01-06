@@ -24,10 +24,10 @@ a{
     padding-left: 1%;
 }
 .half-width img{
-    width: 60%;
-    height: 50%;
-    padding-left: 35%;
-    margin: 0mm;
+    width: 55%;
+    float: left;
+    padding-left: 20%;
+    margin: 2px;
 }
 #button-align{
 text-align: right;
@@ -72,7 +72,6 @@ p{
 .img{
     width: 30%;
     margin: 2%;
-    float:left;
 
 }
 .ex-header{
@@ -93,9 +92,33 @@ font-size: 25px;
     padding-top: 5%;
 
 }
-.back4{
-    background-image: url(shapes/shap.png);
+.box-dec{
+    width: 33%;
     float: left;
-    margin: 55%;
-    padding: 2%
+    padding: .1
+}
+.para-align{
+    text-align: left;
+    padding-left: left;
+}
+.conect-text{
+    text-align: center;
+
+}
+#conect-color{
+    color: dimgray;
+    height: 5%;
+}
+#design-color{
+    color: rgba(109, 15, 216, 0.562);
+}
+.back44{
+    background-image: url(shapes/shap.png);
+}
+.chat{
+    text-align: right;
+    padding-bottom: 2px;
+}
+.icons-align{
+    text-align-last: center;
 }
